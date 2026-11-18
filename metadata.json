@@ -1,0 +1,6 @@
+{
+  "name": "الفحوصات الطبية العالمية",
+  "description": "لوحة بيانات تحليلية متقدمة للفحوصات الطبية والاستثمارات الحيوية العالمية مع خريطة كرة أرضية تفاعلية ثلاثية الأبعاد وبيانات حية من البنك الدولي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
